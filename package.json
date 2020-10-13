@@ -11,16 +11,16 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ppradyoth/pp-music-bot.git"
+    "url": "git+https://github.com/ppradyoth/nodejstestbot-discord.git"
   },
   "keywords": [
     "music",
     "discord"
   ],
   "bugs": {
-    "url": "https://github.com/ppradyoth/pp-music-bot/issues"
+    "url": "https://github.com/ppradyoth/nodejstestbot-discord/issues"
   },
-  "homepage": "https://github.com/ppradyoth/pp-music-bot#readme",
+  "homepage": "https://github.com/ppradyoth/nodejstestbot-discord/#readme",
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
     "discord.js": "^12.3.1",
